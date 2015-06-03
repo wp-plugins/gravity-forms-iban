@@ -12,13 +12,9 @@ Add an IBAN input mask and IBAN validation to your Gravity Form.
 == Description ==
 
 This plugin adds an new IBAN mask to the built-in input masks of Gravity Forms.
-Add this ask to any text field to enforce valid IBAN account numbers in your form.
+Add this mask to any text field to enforce valid IBAN account numbers in your form.
 
 This plugin uses the [php-iban](https://github.com/globalcitizen/php-iban) library to validate IBAN account numbers.
-
-== Installation ==
-
-Use the plugin installer in your Wordpress admin to find and install this plugin.
 
 == Screenshots ==
 
